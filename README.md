@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Hai](https://www.sbs.com.au/movies/sites/sbs.com.au.film/files/styles/body_image/public/hi_doggy.gif?itok=7xO02mrA&mtime=1517785569)
 <!--
 **dljsjr/dljsjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
